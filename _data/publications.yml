@@ -1,5 +1,18 @@
 main:
-
+  - title:"Design and feasibility evaluation of an LLM-enabled workflow for data capture from paper-based health records"
+    authors: Taylor, A., Vellemu, R., Todd, J.
+    conference: "Clinical-MIRF Workshop, 35th ACM International Conference on Information and Knowledge Management (CIKM 2026), Rome, Italy, November 7–11. Proceedings forthcoming."
+    pdf: https://github.com/avtaylor/llm-ocr-paper
+    image: ./assets/img/ocr_agreement_dot_plot.png
+    notes: clinical multimodal data fusion
+  
+  - title: "DAA-YOLOv8s with downsampling aware high resolution fusion for real time tiny vehicle detection in UAV imagery"
+    authors: Jaiswal, M., Nagwanshi, K. K., <strong>Taylor, A.*</strong>,Khan, M. H. M. (*Corresponding author)
+    conference: Scientific Reports (Nature), Nov, 2026.
+    pdf: https://doi.org/10.1038/s41598-026-72826-y
+    image: ./assets/img/Yolo8_paper.png
+    notes: Computer Vision
+    
   - title: "Standardisation and Harmonisation of Clinical Data: Scoping Review"
     authors: <strong>Taylor, A.*</strong>, Vellemu, R., Todd, J. (*Corresponding author)
     conference_short: OSF
