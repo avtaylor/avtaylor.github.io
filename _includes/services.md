@@ -1,6 +1,6 @@
 ## Dashboards
 <ul style="margin:0 0 5px;">
-  <li><a href="https://mlwpapersanalysis.vercel.app/index.html"><autocolor>MLW Publication Dashboard</autocolor></a> This is an experimental prototype system to explore works associated with MLW as found in ORCID and Scopus by year, journal, researcher, work type and inferred topic. Use the interface to explore publication activity, outlets and inferred themes across works publications.</li>
+  <li><a href="https://mlwpapersanalysis.vercel.app/index.html">MLW Publication Dashboard</a> This is an experimental prototype system to explore works associated with MLW as found in ORCID and Scopus by year, journal, researcher, work type and inferred topic. Use the interface to explore publication activity, outlets and inferred themes across works publications.</li>
 <li><a href="https://mlwterminologyasm26.vercel.app">Research terminology and connections at MLW </a>The dashboard helps explore research themes, scientific methods, terminology and connections represented in 50 abstracts presented at the MLW Annual Scientific Meeting in Mangochi, 4–7 October 2026. (@DSCM Unit)
 </li>
 </ul>
