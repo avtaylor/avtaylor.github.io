@@ -1,5 +1,5 @@
 main:
-  - title:"Design and feasibility evaluation of an LLM-enabled workflow for data capture from paper-based health records"
+  - title: "Design and feasibility evaluation of an LLM-enabled workflow for data capture from paper-based health records"
     authors: Taylor, A., Vellemu, R., Todd, J.
     conference: "Clinical-MIRF Workshop, 35th ACM International Conference on Information and Knowledge Management (CIKM 2026), Rome, Italy, November 7–11. Proceedings forthcoming."
     pdf: https://github.com/avtaylor/llm-ocr-paper
