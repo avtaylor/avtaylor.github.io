@@ -6,7 +6,10 @@ layout: homepage
 
 I am a computer scientist with a PhD in Mathematical Logic and over a decade of experience designing and deploying data-driven systems within the private and public-sector contexts. 
 
-I currently serve as a Senior Lecturer at the Malawi University of Business and Applied Sciences (MUBAS), where I teach undergraduate and postgraduate modules, supervise students and engage in research. I lead the development of postgraduate programmes in Artificial Intelligence and Data Analytics, and supervise doctoral research in computational modelling. 
+I currently serve as a Senior Lecturer in Data Science at the University of Liverpool based at the Malawi Liverpool Wellcome Research Programme in the Data Science and Computational Modelling Unit. 
+I lead the development of Artificial Intelligence (AI).
+
+I also serve as an adjunct senior lecturer the Malawi University of Business and Applied Sciences (MUBAS), where I teach undergraduate and postgraduate modules and co-supervise students.
 
 In my non-academic capacity, I provide consultancy services in technology/AI for law and financial modelling and investment. I also build technologies for preserving history and language and I am interested in the relationship between science and religion.
 
