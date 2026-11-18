@@ -33,7 +33,8 @@ Note. I advanced to a PhD straight from my undergraduate studies on the basis of
 
 ## Employment history
 
-- **[Present]** Senior Lecturer in Computer Science, Malawi University of Business and Applied Sciences. I have been instrumental in establishing new MSc programmes and modules in Data Analytics and Artificial Intelligence.
+- **[Present]** Senior Lecturer in Data Science at the University of Liverpool, UK.
+- **[2015-2026]** Senior Lecturer in Computer Science, Malawi University of Business and Applied Sciences. I have been instrumental in establishing new MSc programmes and modules in Data Analytics and Artificial Intelligence.
 - **[2012 - Present]** Consultant in technology, AI, knowledge management
 - **[2008 - 2012]** Quantitative Investment Analyst, Alliance-Trust Ltd, UK. I developed risk and asset allocation models. The output from these models were used for investment and executive decisions.
 - **[2007 - 2008]** Quantitative Investment Analyst, Scottish Widows Investment Partnership, UK. I built models for pricing derivatives (i.e. interest rate swaps) for managing liability driven investments. Also developed and managed internal risk models for fixed-income trading. 
